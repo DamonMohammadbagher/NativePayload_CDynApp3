@@ -33,7 +33,7 @@ Usage:
       
 
 ### NativePayload_CDynApp3 steps [Win10]
-   ![](https://github.com/DamonMohammadbagher/NativePayload_CDynApp3/Pic/server1.png)
+   ![](https://github.com/DamonMohammadbagher/NativePayload_CDynApp3/blob/main/Pic/server1.png)
    
  
 <p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_CDynApp3/"/></a></p>
